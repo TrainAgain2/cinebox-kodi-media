@@ -1,0 +1,95 @@
+{
+  "format": "CineBox GitHub Pages GIF assets v1",
+  "assets": [
+    {
+      "file": "amc.gif",
+      "bytes": 113867,
+      "sha256": "7f81ea0745b7d515f147e8b5000cf5f9d3e1083c258aed963c004efe2a45b4cb"
+    },
+    {
+      "file": "apple_tv.gif",
+      "bytes": 957461,
+      "sha256": "0aa6450657216d63cc0f251de4eff8d34fa9c74ca5421325033999df9e82898b"
+    },
+    {
+      "file": "crunchyroll.gif",
+      "bytes": 2707875,
+      "sha256": "5c6ac5c314bd3ad0d60e66f12c3dc5c05cce4066f82fc6c0f70692de789cd81a"
+    },
+    {
+      "file": "disney_plus.gif",
+      "bytes": 583344,
+      "sha256": "bd144578fc830756efb489fdf5fb962fb34c311ae8421ebd0f5d1fdff5e1786b"
+    },
+    {
+      "file": "episodios_catalogo.gif",
+      "bytes": 1880373,
+      "sha256": "3794c96bd9cfb418eaeaeb2ea3027ee539cd4c24d0624f8d145dab1fee96366a"
+    },
+    {
+      "file": "filmes_do_dia_catalogo.gif",
+      "bytes": 1760513,
+      "sha256": "bc4fd529596ddd92ba7145b5570951d0b0e02b96dc5b8bd50336c85a5da7b9b2"
+    },
+    {
+      "file": "freevee.gif",
+      "bytes": 596708,
+      "sha256": "66ea4ae5247261447d7471a27776a1381fdf165d0251e440c03df9e1c4d14a85"
+    },
+    {
+      "file": "hulu.gif",
+      "bytes": 10796632,
+      "sha256": "9d28f9f18a2cedd38c1765d7d432a518aee8f55435fc7c92af36754233d930fc"
+    },
+    {
+      "file": "max.gif",
+      "bytes": 9473132,
+      "sha256": "c002cca1edf3ca650296c496108c727e28a2eb13112b7318ba3af56906298efd"
+    },
+    {
+      "file": "mgm.gif",
+      "bytes": 3970291,
+      "sha256": "21dbbd0816c6a958268cf53d300c5c62f0da7e95e557737df99e3b494d1ea9d4"
+    },
+    {
+      "file": "netflix.gif",
+      "bytes": 1357877,
+      "sha256": "db4a3a1bb43081c0d808b90a99d3b40a437ce6bdeb60144615d55a7eb2d7442e"
+    },
+    {
+      "file": "paramount.gif",
+      "bytes": 665828,
+      "sha256": "f790778209f7b5e05b833ed610675576458310bdbbc2bcfb9111cf3695ee985e"
+    },
+    {
+      "file": "peacock.gif",
+      "bytes": 195371,
+      "sha256": "cf99535c2e8db057fe1c394634e98488a364062eb6365c5a90386d9bd6ee2cc0"
+    },
+    {
+      "file": "pluto_tv.gif",
+      "bytes": 1788311,
+      "sha256": "359b0010de3551697fa7a6c9dfbc7844da607915de2459085b029399cae6cb04"
+    },
+    {
+      "file": "prime_video.gif",
+      "bytes": 2976959,
+      "sha256": "1f7575383201684f01f3875c820b6a1c0d84540d4ebac9a75ff7325dd95b45a2"
+    },
+    {
+      "file": "starz.gif",
+      "bytes": 2687354,
+      "sha256": "5873dca0cc8067582598f7a076bb5fccce37de87f17d711399a930bb3e169a2e"
+    },
+    {
+      "file": "tubi.gif",
+      "bytes": 796071,
+      "sha256": "a95cf225c80e1dce0ef2c18e0167ea519cc4249688e59cda398d72787137f5a0"
+    },
+    {
+      "file": "vudu.gif",
+      "bytes": 489297,
+      "sha256": "49ecea4f6ea75f7560f075faf34e34db4c1ba3b99b0fae7016e0c12bcab5401f"
+    }
+  ]
+}
